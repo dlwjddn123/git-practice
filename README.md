@@ -1,1 +1,1 @@
-edited# git-practice
+메인 브랜치
